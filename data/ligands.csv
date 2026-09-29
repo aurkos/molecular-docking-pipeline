@@ -1,0 +1,6 @@
+name,cid,smiles
+imatinib,5291,Cc1ccc(NC(=O)c2ccc(CN3CCN(C)CC3)cc2)cc1Nc1nccc(-c2cccnc2)n1
+erlotinib,176870,C#Cc1cccc(Nc2ncnc3cc(OCCOC)c(OCCOC)cc23)c1
+gefitinib,123631,COc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OCCCN1CCOCC1
+aspirin,2244,CC(=O)Oc1ccccc1C(=O)O
+caffeine,2519,Cn1cnc2c1c(=O)n(C)c(=O)n2C

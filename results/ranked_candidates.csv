@@ -1,0 +1,6 @@
+name,binding_affinity_kcal_mol,mw,logp,hbd,hba,tpsa,rotatable_bonds,lipinski_violations,smiles
+imatinib,-11.877,493.62,4.59,2,7,86.28,7,0,Cc1ccc(NC(=O)c2ccc(CN3CCN(C)CC3)cc2)cc1Nc1nccc(-c2cccnc2)n1
+gefitinib,-7.87,446.91,4.28,1,7,68.74,8,0,COc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OCCCN1CCOCC1
+erlotinib,-7.279,393.44,3.41,1,7,74.73,10,0,C#Cc1cccc(Nc2ncnc3cc(OCCOC)c(OCCOC)cc23)c1
+aspirin,-6.681,180.16,1.31,1,3,63.6,2,0,CC(=O)Oc1ccccc1C(=O)O
+caffeine,-5.455,194.19,-1.03,0,3,61.82,0,0,Cn1cnc2c1c(=O)n(C)c(=O)n2C

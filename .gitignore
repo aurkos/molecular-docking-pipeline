@@ -1,0 +1,10 @@
+venv/
+docking_env/
+__pycache__/
+*.pyc
+.DS_Store
+structures/*.pdb
+structures/*.pdbqt
+data/*.pdbqt
+*.log
+
